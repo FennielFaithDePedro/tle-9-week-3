@@ -10,7 +10,7 @@
 
  
 
-<p align = "center"> <img src="D:\Downloads\HTML PICS\sun (1).jpg" width = 210 , length = 210> </img> <br>
+<p align = "center"> <sun (1).jpg" width = 210 , length = 210> </img> <br>
 
 The sunshine is so bright <br>
 
@@ -18,15 +18,13 @@ It gives hope to everyone <br> <br>
 
  
 
-<img src="D:\Downloads\HTML PICS\circle (1).jpg" width = 300, length = 300> </img> <br>
+<img src="circle (1).jpg" width = 300, length = 300> </img> <br>
 
 It’s a small <br>
 
 <b>World after all</b> <br> <br> </p>
 
- 
-
-<p align="right"> <img src="D:\Downloads\HTML PICS\smiley (1).jpg" width = 450 , length = 450> </img> <br>
+<p align="right"> <img src="smiley (1).jpg" width = 450 , length = 450> </img> <br>
 
 <b>Always wear a smile,  </b><br> you might inspire somebody <br> with it. </p>
 
@@ -73,5 +71,5 @@ Andy Andrews </b></font>
 <br>
 <br>
 <p align="center">
-<img src="D:\Documents\Pictures\navy-blue-windowpane-grid-2-reversed-square-check-graph-.png", width=210, length=210> <br> <br>
+<img src="navy-blue-windowpane-grid-2-reversed-square-check-graph-.png", width=210, length=210> <br> <br>
 <font face=Verdana, size=10, color=White> Fenniel Faith De Pedro </font>
