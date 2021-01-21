@@ -69,7 +69,7 @@ I choose now." ~
 <font face="arial", size=3, color="red">
 <br>
 <br>
-Andy Andrews <b></font>
+Andy Andrews </b></font>
 <br>
 <br>
 <p align="center">
